@@ -1,0 +1,16 @@
+C:\Users\wiggo\skolproject\Speltext\bin\Debug\net5.0\Speltext.exe
+C:\Users\wiggo\skolproject\Speltext\bin\Debug\net5.0\Speltext.deps.json
+C:\Users\wiggo\skolproject\Speltext\bin\Debug\net5.0\Speltext.runtimeconfig.json
+C:\Users\wiggo\skolproject\Speltext\bin\Debug\net5.0\Speltext.runtimeconfig.dev.json
+C:\Users\wiggo\skolproject\Speltext\bin\Debug\net5.0\Speltext.dll
+C:\Users\wiggo\skolproject\Speltext\bin\Debug\net5.0\ref\Speltext.dll
+C:\Users\wiggo\skolproject\Speltext\bin\Debug\net5.0\Speltext.pdb
+C:\Users\wiggo\skolproject\Speltext\obj\Debug\net5.0\Speltext.csprojAssemblyReference.cache
+C:\Users\wiggo\skolproject\Speltext\obj\Debug\net5.0\Speltext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wiggo\skolproject\Speltext\obj\Debug\net5.0\Speltext.AssemblyInfoInputs.cache
+C:\Users\wiggo\skolproject\Speltext\obj\Debug\net5.0\Speltext.AssemblyInfo.cs
+C:\Users\wiggo\skolproject\Speltext\obj\Debug\net5.0\Speltext.csproj.CoreCompileInputs.cache
+C:\Users\wiggo\skolproject\Speltext\obj\Debug\net5.0\Speltext.dll
+C:\Users\wiggo\skolproject\Speltext\obj\Debug\net5.0\ref\Speltext.dll
+C:\Users\wiggo\skolproject\Speltext\obj\Debug\net5.0\Speltext.pdb
+C:\Users\wiggo\skolproject\Speltext\obj\Debug\net5.0\Speltext.genruntimeconfig.cache

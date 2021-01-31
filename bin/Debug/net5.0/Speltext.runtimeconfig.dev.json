@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\wiggo\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\wiggo\\.nuget\\packages"
+    ]
+  }
+}
